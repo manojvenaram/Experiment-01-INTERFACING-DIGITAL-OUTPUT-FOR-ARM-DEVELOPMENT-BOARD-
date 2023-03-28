@@ -177,8 +177,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![](1a.png)
-![](2a.png) 
+![](1a.jpeg)
+![](2a.jpeg) 
  
  
 ## Result :
